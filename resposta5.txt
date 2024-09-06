@@ -1,0 +1,1 @@
+Usaria as idas e voltas para descobrir o qual liga a lâmpada 1 e 2 e logo deduziria que a lâmpada 3 é ligada pelo interruptor restante.
